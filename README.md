@@ -1,8 +1,25 @@
-# Basic Sample Hardhat Project
+E-Voting Website
+This is a web application for conducting electronic voting using blockchain technology. It provides a secure and transparent platform for users to participate in voting processes.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
+Table of Contents
+Features
+Technologies Used
+Installation
+Usage
+Contributing
+License
+Features
+Blockchain-Based Voting: Utilizes blockchain technology for secure and transparent voting.
+Metamask Integration: Allows users to connect their wallets via Metamask for voting.
+Real-Time Updates: Provides real-time updates on the total number of votes cast and the status of the ongoing voting process.
+Responsive Design: Ensures a seamless user experience across various devices and screen sizes.
+Registration: Users can register for voting directly from the home page.
+Technologies Used
+React: Frontend framework for building user interfaces.
+React Router: Library for routing in React applications.
+Ethers.js: JavaScript library for interacting with the Ethereum blockchain.
+Tailwind CSS: Utility-first CSS framework for styling the application.
+Node.js: JavaScript runtime for building scalable server-side applications.
 
 ```shell
 npx hardhat accounts
